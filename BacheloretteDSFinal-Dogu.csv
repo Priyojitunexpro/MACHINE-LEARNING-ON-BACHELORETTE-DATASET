@@ -1,0 +1,155 @@
+Season,Name,Age,Hometown,State,College,Occupation,Win_Loss,Height (cm),Girlfriend While on the Show?,Hair Color,Eye Color
+15,Jed Wyatt,25,"Sevierville, Tennessee",TN,Belmont University,Singer/Sonwriter,1,190.5,Yes,Brown,Brown
+15,Tyler Cameron,26,"Jupiter, Florida",FL,Wake Forest,General Contractor,0,187.96,No,Brown,Green
+15,Peter Weber,27,"Westlake Village, California",CA,Baylor University,Pilot,0,175.25,No,Brown,Brown
+15,Luke Parker,24,"Gainesville, Georgia",GA,Faulkner University,Import/Export Manager,0,175,No,Blonde,Brown
+15,Garrett Powell,27,"Homewood, Alabama",AL,Mississippi State University,Golf Pro,0,NaN,No,Brown,Green
+15,Mike Johnson,31,"San Antonio, Texas",TX,NaN,Portfolio Manager,0,180,No,Brown,Brown
+15,Connor Saeli,24,"Birmingham, Michigan",MI,Souther Methodist University,Investment Analyst,0,198,No,Brown,Brown
+15,Dustin Kendrick,30,"Chicago, Illinois",IL,Northeastern Illionois University,Real Estate Broker,0,188,No,Brown,Brown
+15,Dylan Barbour,24,"San Diego, California",CA,Williams College,Tech Entrepreneur ,0,180.3,No,Brown,Brown
+15,Devin Harris,27,"Sherman Oaks, California",CA,University of San Diego,Talent Manager,0,NaN,No,Brown,Brown
+15,Grant Eckel,30,"San Clemente, California",CA,Saddleback College,Unemployed,0,NaN,No,Brown,Brown
+15,Kevin Fortenberry,27,"Manteno, Illinois",IL,Other,Behavioral Health Specialist,0,NaN,No,Brown,Blue
+15,John Paul Jones,24,"Lanham, Maryland",MD,Catholic University of America,Financial Analyst,0,172.72,No,Blonde,Blue
+15,Matteo Valles,25,"Atlanda, Georgia",GA,Georgia tech,Management Consultant,0,NaN,No,Brown,Brown
+15,Luke Stone,29,"Marion, Massachusetts",MA,The George Washington University,Political Consultant,0,187.96,No,Brown,Brown
+15,Cameron Ayala,30,"Austin, Texas",TX,Texas A&M University,Software Sales,0,177.8,No,Brown,Blue
+15,Joey Jones,33,"Bethesda, Maryland",MD,Boston College,Finance Manager,0,NaN,No,Brown,Brown
+15,Jonathan Saunders,27,"Los Angeles, California",CA,Other,Server,0,NaN,No,Brown,Brown
+15,Tyler Gwozdz,28,"Boca Raton, Florida",FL,Wake Forest,Psychology Graduate Student,0,NaN,No,Brown,Blue
+15,Connor Jenkins,28,"Newport Beach, California",CA,University of Missouri-Columbia,Sales Manager,0,NaN,No,Brown,Brown
+15,Daron Blaylock,25,"Buckhead, Georgia",GA,University of Kentucky ,IT Consultant,0,NaN,No,Brown,Brown
+15,Matthew Spraggins,23,"Newport Beach, California",CA,Other,Car Bid Spotter,0,NaN,No,Brown,Brown
+15,Brian Bowles,30,"Louisville, Kentucky",KY,Centre College,Math Teacher,0,NaN,No,Brown,Brown
+15,Chasen Coscia,27,"Ann Arbor, Michigan",MI,Other,Pilot ,0,NaN,No,Brown,Brown
+15,Hunter Jones,24,"Westchester, California",CA,Other,Pro Surfer,0,NaN,No,Brown,Brown
+15,Joe Barsano,30,"Chicago, Illinois",IL,North Park University,The Box King,0,NaN,No,Brown,Brown
+15,Matt Donald,26,"Los Gatos, California",CA,High Point University,Medical Device Salesman,0,NaN,No,Blonde,Green
+15,Ryan Spirko,25,"Philadelphia, Pennsylvania",PA,Lehigh University,Roller Boy,0,NaN,No,Brown,Brown
+15,Thomas Staton,27,"Detroit, Michigan",MI,Other,International Pro Basketball Player,0,NaN,No,Brown,Brown
+15,Scott Anderson,28,"Chicago, Illinois",IL,Other,Software Sales Executive ,0,NaN,Yes,Brown,Brown
+14,Garrett Yrigoyen,29,"Manteca, California",CA,University of Nevada,Medical Sales Representative,0,,No,Brown,Brown
+14,Blake Horstmann,28,"Bailey, Colorado",CO,Hastings College,Sales Representative,0,180.3,No,Brown,Brown
+14,Jason Tartick,29,"Buffalo, New York",NY,University of Rochester,Senior Corporate Banker,1,175.26,No,Brown,Brown
+14,Colton Underwood,26,"Washington, Illinois",IL,Illinois State University,Former Pro Football Player,0,190.5,No,Blonde,Blue
+14,"William ""Wills"" Reid",29,"Los Angeles, California",CA,"University of California, Davis",Graphic Designer,0,NaN,No,Brown,Brown
+14,"Leandro ""Leo"" Dottavio",31,"Los Angeles, California",CA,California State University,Actor,0,193,No,Brown,Brown
+14,Connor Obrochta,25,"St. Petersburg, Florida",FL,University of Tampa,Fitness Coach,0,182.8,No,Brown,Brown
+14,Lincoln Adim,26,"Boston, Massachusetts",MA,University of Kentucky,Account Sales Executive,0,NaN,No,Brown,Brown
+14,Chris Randone,30,"Pleasantville, New York",NY,University of Central Florida,Sales Trainer,0,NaN,No,Brown,Brown
+14,John Graham,28,"Chicago, Illinois",IL,Columbia University,Software Engineer,0,NaN,No,Brown,Brown
+14,Jordan Kimball,26,"Crystal River, Florida",FL,College of Central Florida,Male Model,0,182.8,No,Brown,Brown
+14,David Ravitz,25,"Cherry Hill, New Jersey",NJ,University of Maryland,Venture Capitalist,0,NaN,No,Brown,Brown
+14,Christon Staples,31,"Los Angeles, California",CA,Wayne State University,Former Harlem Globetrotter,0,190.5,No,Brown,Brown
+14,"Nicholas ""Nick"" Spetsas",27,"Palm Coast, Florida",FL,Flagler University,Attorney,0,NaN,No,Brown,Brown
+14,Jean Blanc,31,"Boston, Massachusetts",MA,Other,Colognoisseur,0,NaN,No,Brown,Brown
+14,"Michael ""Mike"" Renner",27,"Cincinnati, Ohio",OH,University of Notre Dame,Sports Analyst,0,NaN,No,Blonde,Brown
+14,Ryan Peterson,26,"Mashpee, Massachusetts",MA,"University of California, Davis",Banjoist,0,182.8,No,Brown,Brown
+14,Clay Harbor,30,"Chicago, Illinois",IL,Missouri State University ,Pro Football Player,0,190.5,No,Brown,Brown
+14,Alex Templeman,31,"Atlanta, Georgia",GA,Georgia Southern University,Construction Manager,0,NaN,No,Brown,Brown
+14,Rickey Jasper,27,"Ashburn, Virginia",VA,James Madison University,IT Consultant,0,180.3,No,Brown,Brown
+14,Trent Jespersen,28,"Carroll, Iowa",IA,Des Moines Area Community College,Realtor,0,NaN,No,Brown,Brown
+14,Chase Vergason,27,"Sanford, Florida",FL,University of South Carolina,Advertising Vice President,0,180.3,No,Brown,Brown
+14,Christian Estrada,28,"San Diego, California",CA,Other,Banker,0,182.8,No,Brown,Brown
+14,Darius Feaster,26,"Sherman Oaks, California",CA,University of Wisconsin,Pharmaceutical Sales Representative,0,180.3,No,Brown,Brown
+14,Grant Vandevanter,27,"Danville, California",CA,Hastings College,Electrician,0,NaN,No,Brown,Brown
+14,Joe Amabile,31,"Chicago, Illinois",IL,Other,Grocery Store Owner,0,170,No,Brown,Brown
+14,Kamil Nicalek,30,"Monroe, New York",NY,St. Thomas Aquinas,Social Media Participant,0,188.9,No,Brown,Blue
+14,Jake Enyeart,29,"Minneapolis, Minnesota",MN,Babson College ,Marketing Consultant,0,NaN,No,Brown,Brown
+13,Bryan Abasolo,37,"Miami, Florida",FL,University of Florida,Chiropractor,1,187.96,No,Brown,Brown
+13,Peter Kraus,31,"Madison, Wisconsin",WI,Madison Technical College,Business Owner,0,190.5,No,Brown,Brown
+13,Eric Bigger,29,"Baltimore, Maryland",MD,Hampton University ,Personal Trainer,0,187.96,No,Brown,Brown
+13,Dean Unglert,26,"Aspen, Colorado",CO,University of Colorado,Startup Recruiter,0,188,No,Brown,Blue
+13,Adam Gottschalk,27,"Dallas, Texas",TX,University of Texas at Austin,Real Estate Agent,0,188,No,Brown,Brown
+13,"Matthew ""Matt"" Munson",32,"Meriden, Connecticut",CT,Other,Construction Sales Rep,0,190.5,No,Brown,Brown
+13,"Aleksandr ""Alex"" Bordyukov",28,"Grosse Pointe, Michigan",MI,Other,Information Systems Supervisor,0,187.96,No,Brown,Brown
+13,"William ""Will"" Gaskins",28,"White Plains, New York",NY,William and Mary,Sales Manager,0,190.5,No,Brown,Brown
+13,Kenny Layne,35,"Orlando, Florida",FL,Florida State University,Professional Wrestler,0,182.88,No,Brown,Brown
+13,Anthony Battle,26,"Chicago, Illinois",IL,Northwestern University,Education Software Manager,0,190.5,No,Brown,Brown
+13,Josiah Graham,28,"Plantation, Florida",FL,University of Central Florida,Prosecuting Attorney,0,NaN,No,Brown,Brown
+13,Lee Garrett,30,"Jacksonville, Florida",FL,Other,Singer/Songwriter,0,180.33,No,Brown,Brown
+13,"Ignacio ""Iggy"" Rodriguez",30,"Pasadena, California",CA,Passadena Polytechnic School,Consulting Firm CEO,0,180.33,No,Brown,Brown
+13,Jonathan Treece,31,"Paragould, Arkansas",AR,University of Arkansas,Doctor,0,187.96,No,Brown,Brown
+13,Jack Stone,32,"Dallas, Texas",TX,Other,Attorney,0,180.33,No,Brown,Brown
+13,Brady Ervin,29,"Eden Prairie, Minnesota",MN,University of St. Thomas,Male Model,0,180.33,No,Brown,Green
+13,"Kenneth ""Diggy"" Moreland",31,"Chicago, Illinois",IL,University of Illinois at Urbana-Champaign,Senior Inventory Analyst,0,180.33,No,Brown,Brown
+13,Bryce Powers,30,"Orlando, Florida",FL,Other,Firefighter,0,187.96,No,Brown,Brown
+13,"Frederick ""Fred"" Johnson",27,"Dallas, Texas",TX,Florida State University,Executive Assistant,0,182.88,No,Brown,Brown
+13,Blake Elarbee,31,"Marina del Rey, California",CA,Other,Aspiring Drummer,0,182.88,No,Brown,Brown
+13,"James ""Jamey"" Kocan",32,"Santa Monica, California",CA,Clarkson University,Sales Account Executive,0,175.26,No,Brown,Brown
+13,Lucas Yancey,30,"Woodside, California",CA,UC Berkeley,Real Estate Agent,0,182.88,No,Brown,Brown
+13,DeMario Jackson,30,"Century City, California",CA,"University of California, Fresno",Executive Recruiter,0,193,Yes,Brown,Brown
+13,Jedidiah Ballard,35,"Augusta, Georgia",GA,Other,ER Physician,0,177.8,No,Brown,Brown
+13,Michael Black,26,"Chicago, Illinois",IL,University of Albany,Former Professional Basketball Player,0,182.88,No,Brown,Brown
+13,"Robert ""Rob"" Howard",30,"Calgary, Canada",Other,Other,Law Student,0,180.33,No,Brown,Brown
+13,Grant Hubsher,29,"Palm Harbor, Florida",FL,University of Florida,Emergency Medicine Physician,0,180.33,No,Brown,Brown
+13,Blake Killpack,29,"San Francisco, California",CA,Other,U.S. Marine Veteran,0,180.33,No,Brown,Brown
+13,Milton LaCroix,31,"North Bay Village, Florida",FL,Other,Hotel Recreation Supervisor,0,193.04,No,Brown,Brown
+13,Mohit Sehgal,26,"Pacifica, California",CA,Other,Product Manager,0,175,No,Brown,Brown
+13,Kyle Sherwood,26,"Stratford, Connecticut",CT,other,Marketing Consultant,0,NaN,No,Brown,Brown
+12,Jordan Rodgers,27,"Chico, California",CA,Butte College,Former Pro Quarterback,1,187.96,No,Brown,Brown
+12,"Robert ""Robby"" Hayes",27,"St. Augustine, Florida",FL,Other,Former Competitive Swimmer,0,185.42,No,Brown,Brown
+12,Chase McNary,27,"Castle Rock, Colorado",CO,Colorado State University,Medical Sales Rep,0,190.5,No,Brown,Brown
+12,Luke Pell,31,"Burnet, Texas",TX,West Point,War Veteran,0,185.42,No,Brown,Brown
+12,James Taylor,29,"Denver, Colorado",CO,Texas A&M University,Singer-Songwriter,0,190.5,No,Brown,Brown
+12,"Alexander ""Alex"" Woytkiw",25,"Oceanside, California",CA,Palm Beach State College,U.S. Marine,0,170.18,No,Brown,Brown
+12,Derek Peth,29,"Waverly, Iowa",IA,Wartburg College,Commercial Banker,0,190.5,No,Brown,Blue
+12,Wells Adams,31,"Monterey, California",CA,University of Oxford,Radio DJ,0,182.88,No,Brown,Brown
+12,Evan Bass,33,"Hartford, Connecticut",CT,Other,Erectile Dysfunction Specialist,0,180.33,No,Brown,Brown
+12,Grant Kemp,27,"San Francisco, California",CA,University of Pretoria,Firefighter,0,187.96,No,Brown,Brown
+12,"Vincent ""Vinny"" Ventiera",28,"Kings Park, New York",NY,Five Towns College,Barber,0,182.88,No,Brown,Brown
+12,Daniel Maguire,31,"Lions Bay, British Columbia",Other,Other,Male Model,0,185.42,No,Brown,Brown
+12,James Fuertes,34,"Franklin, Tennessee",TN,Liberty University,Boxing Club Owner,0,187.96,No,Brown,Brown
+12,"Brian ""Chad"" Johnson",28,"Jenks, Oklahoma",OK,University of Oklahoma,Luxury Real Estate Agent,0,187.96,No,Brown,Brown
+12,Ali Zahiri,27,"Santa Monica, California",CA,Other,Bartender,0,172.72,No,Brown,Brown
+12,Christian Bishop,26,"Los Angeles, California",CA,California St Northridge,Telecom Consultant,0,180.33,No,Brown,Brown
+12,"Nicholas ""Nick"" Benvenutti",33,"Carthage, Illinois",IL,Clemson University,Electrical Engineer,0,185,No,Brown,Brown
+12,Brandon Howell,28,"Marysville, Washington",WA,Other,Hipster,0,193.04,No,Brown,Brown
+12,James Spadafore,27,"Phoenix, Arizona",AZ,Onondaga Community College,Bachelor Superfan,0,185.42,No,Brown,Brown
+12,"William ""Will"" Haduch",26,"Jersey City, New Jersey",NJ,The College of New Jersey,Civil Engineer,0,190.5,No,Brown,Green
+12,"Colin ""Coley"" Knust",27,"Chicago, Illinois",IL,Indiana University,Real Estate Consultant,0,187.96,No,Brown,Brown
+12,Jake Patton,26,"Playa Vista, California",CA,Other,Landscape Architect,0,187.96,No,Brown,Brown
+12,Jonathan Hamilton,29,"Vancouver, British Columbia",Other,Other,Technical Sales Rep,0,185.42,No,Brown,Brown
+12,"Nicholas ""Nick"" Sharp",26,"San Francisco, California",CA,Other,Software Salesman,0,NaN,No,Brown,Brown
+12,Peter Medina,26,"Rockdale, Illinois",IL,Joliet Catholic Academy,Staffing Agency Manager,0,180.33,No,Brown,Brown
+12,"Salvatore ""Sal"" DeJulio",28,"Hubbard, Ohio",OH,Other,Operations Manager,0,187.96,No,Brown,Blue
+11,Shawn Booth,28,"Windsor Locks, Connecticut",CT,Keene State College,Personal Trainer,1,187.96,No,Brown,Brown
+11,"Nicholas ""Nick"" Viall",34,"Waukesha, Wisconsin",WI,University of Wisconsin,Software Sales Executive,0,187.96,No,Brown,Brown
+11,"Benjamin ""Ben"" Higgins",26,"Warsaw, Indiana",IN,Indiana University,Software Salesman,0,198.12,No,Brown,Brown
+11,Jared Haibon,26,"Warwick, Rhode Island",RI,Community College of Rhode Island,Restaurant Manager,0,182.88,No,Brown,Brown
+11,"Joseph ""Joe"" Bailey",28,"Glasgow, Kentucky",KY,Other,Insurance Agent,0,NaN,No,Brown,Brown
+11,"Christopher ""Chris"" Strandburg",28,"Granite Bay, California",CA,"University of California, Los Angeles",Dentist,0,182.88,No,Brown,Brown
+11,"Benedikt ""Ben"" Zorn",26,"Falls Church, Virginia",VA,San Jose State College,Fitness Coach,0,193.04,No,Brown,Blue
+11,Tanner Tolbert,28,"Stilwell, Kansas",KA,University of Kansas,Auto Finance Manager,0,190.5,No,Brown,Brown
+11,"John ""J.J."" Lane III",32,"Dacono, Colorado",CO,Westmont College,Former Investment Banker,0,185,No,Brown,Brown
+11,Joshua Albers,31,"Kuna, Idaho",ID,Other,Industrial Welder,0,187.96,No,Blonde,Blue
+11,Justin Reich,28,"Elgin, Illinois",IL,North Central College,Fitness Trainer,0,180.33,No,Blonde,Green
+11,Ian Thomson,28,"Ramsey, New Jersey",NJ,Other,Executive Recruiter,0,185.42,No,Brown,Brown
+11,Corey Stansell ,30,"New York, New York",NY,University of Houston,Investment Banker,0,182.88,No,Brown,Brown
+11,Jonathan Holloway,33,"Sylvan Lake, Michigan",MI,Other,Automotive Spokesman,0,NaN,No,Brown,Brown
+11,Ryan Beckett,32,"Wellington, Florida",FL,Palm Beach State College,Realtor,0,NaN,No,Brown,Brown
+11,"Clinton ""Clint"" Arlis",27,"Batavia, Illinois",IL,Other,Architectural Engineer,0,175.25,No,Blonde,Blue
+11,"Anthony ""Tony"" Harris",35,"St. Louis, Missouri",MO,Other,Healer,0,187.96,No,Brown,Green
+11,Cory Shivar,35,"Seven Springs, North Carolina",NC,Other,Residential Developer,0,182.88,No,Brown,Brown
+11,Daniel Finney,28,"Nashville, Tennessee",TN,Other,Fashion Designer,0,190.5,No,Brown,Blue
+11,Kupah James,32,"Boston, Massachusetts",MA,Curry College,Entrepreneur,0,182.88,No,Brown,Brown
+11,Bradley Cox,25,"Duluth, Georgia",GA,Other,International Auto Shipper,0,187.96,No,Brown,Brown
+11,David Cox,28,"Orlando, Florida",FL,Other,Real Estate Agent,0,NaN,No,Brown,Brown
+11,"Joshua ""Josh"" Seiter",27,"Chicago, Illinois",IL,Chicago-Kent College,Law Student/Exotic Dancer,0,187.96,No,Brown,Brown
+11,Shawn Evans,31,"London, Ontario",Other,Other,Amateur Sex Coach,0,NaN,No,Brown,Brown
+11,Brady Toops,33,"Wauseon, Ohio",OH,Other,Singer/Songwriter,0,187.96,No,Brown,Brown
+11,Ryan McDill,28,"Kansas City, Missouri",MO,Other,Junkyard Specialist,0,190.5,No,Brown,Blue
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
